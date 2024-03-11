@@ -1,4 +1,10 @@
-# McFly Starter Project
+# Elkx Placeholder Project
+
+Will be a staging environment for elk development.
+
+---
+
+## McFly Starter Project
 
 This project was generated from the basic template for **McFly** -- a no-framework framework that assists in leveraging the web platform.
 

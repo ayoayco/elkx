@@ -1,6 +1,6 @@
 {
-  "name": "@templates/basic",
-  "description": "McFly starter project",
+  "name": "@ayco/elkx",
+  "description": "Elkx placeholder",
   "scripts": {
     "start": "mcfly serve",
     "prepare": "mcfly prepare",
